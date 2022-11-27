@@ -7,7 +7,7 @@
 </head>
 <body>
   <div class="jumbotron" style="background-color:white">
-     <h1 class="text-center">Welcome to our new Maven web Application </h1>
+     <h1 class="text-center">Welcome to our Project with rayen et nounou</h1>
       <h1> coup de monde Tunis 1- 3 Dun vive la tunisie </h1>
       <img src="https://www.tek-up.de/plans/img/logo-header.png" alt="Spidertocat"
            class="img-responsive center-block" style={{width: 300px}}/>
