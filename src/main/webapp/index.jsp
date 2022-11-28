@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@lamjed12 
-RAYENkc
-/
-Project_PWA
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Project_PWA/index.html
-@RAYENkc
-RAYENkc first commit
-Latest commit 8ecb40a 10 days ago
- History
- 1 contributor
-301 lines (246 sloc)  10.4 KB
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
