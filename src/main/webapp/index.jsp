@@ -9,7 +9,7 @@
 
     <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css"> 
     <link rel="stylesheet" href="css/swiper-bundle.min.css">
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="">
     <title>Chistmas Website</title>
 </head>
